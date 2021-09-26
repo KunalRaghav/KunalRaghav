@@ -8,10 +8,10 @@ I'm Kunal Raghav, I'm a software engineer 👨‍💻 who is passionate about mo
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Typescript
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
--  ⚡ Languages: Java, Kotlin, Python3
+-  ⚡ Languages: Java, Kotlin, Python3, Javascript
 
 
 > El Psy Kongroo
